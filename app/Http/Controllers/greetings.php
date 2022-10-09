@@ -12,7 +12,7 @@ class greetings extends Controller
         switch ($time) {
             case 'morning':
                 $title = "朝";
-                $greeting = "おはよう";
+                $greeting = "おはようございます";
                 break;
             case 'afternoon':
                 $title = "昼";
