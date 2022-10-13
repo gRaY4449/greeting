@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>{{$title}}のあいさつ</h1>
+    <h1>{{$title}}の挨拶</h1>
     <h2>{{$greeting}}</h2>
 </body>
 </html>
